@@ -32,7 +32,7 @@ const projects = [
     description:
       "Conception complète d'une interface de gestion pour restaurants, glaciers et fast-food avec système de commandes et réservations",
     technologies: ["Figma", "UI/UX", "Prototypage", "Design System"],
-    link: "https://www.figma.com/proto/...",
+    link: "https://www.figma.com/proto/uojSAtemNGivKeGdACXKre/Untitled?page-id=0%3A1&node-id=69-608&p=f&viewport=46%2C25%2C0.03&t=AoDgknAwAysJzRUP-1&scaling=scale-down-width&content-scaling=fixed",
     type: "Prototype",
     status: "Terminé",
     year: "2025",
@@ -71,7 +71,7 @@ const projects = [
     description:
       "Design moderne pour un site de vente de parfums de marques avec interface élégante et expérience utilisateur optimisée",
     technologies: ["Figma", "Adobe XD", "Design System", "Responsive Design"],
-    link: "https://www.figma.com/design/...",
+    link: "https://www.figma.com/design/zmTd7f4oOmbd1KRNlir3so/siteweb?node-id=1-2&t=BpXZCpnjVbbhcxga-1",
     type: "Maquette",
     status: "Terminé",
     year: "2024",
@@ -97,7 +97,7 @@ const projects = [
     description:
       "Interface moderne pour plateforme de vente de livres électroniques avec système de lecture intégré",
     technologies: ["Figma", "UI/UX", "Wireframing", "User Research"],
-    link: "https://www.figma.com/design/...",
+    link: "https://www.figma.com/design/drHcbOkgayRW6ufnqTRQxu/site1-eCom?node-id=0-1&t=To4xRhmPTjW5wh9y-1",
     type: "Maquette",
     status: "Terminé",
     year: "2024",
